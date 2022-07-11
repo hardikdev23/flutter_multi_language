@@ -12,9 +12,9 @@
 
 ## Screenshots
 
-![Alt text](/assets/screenshots/Screenshot_1657533414.png?raw=true "English")
-![Alt text](/assets/screenshots/Screenshot_1657533419.png?raw=true "Hindi")
-![Alt text](/assets/screenshots/Screenshot_1657533425.png?raw=true "Gujarati")
-![Alt text](/assets/screenshots/Screenshot_1657533428.png?raw=true "Kannada")
-![Alt text](/assets/screenshots/Screenshot_1657533430.png?raw=true "Tamil")
-![Alt text](/assets/screenshots/Screenshot_1657533433.png?raw=true "Marathi")
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533414.png" width="354" height="768" title="English" />
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533419.png" width="354" height="768" title="Hindi" />
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533425.png" width="354" height="768" title="Gujarati" />
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533428.png" width="354" height="768" title="Kannada" />
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533430.png" width="354" height="768" title="Tamil" />
+<img src="https://github.com/hardikdev23/flutter_multi_language/blob/master/assets/screenshots/Screenshot_1657533433.png" width="354" height="768" title="Marathi" />
